@@ -1,0 +1,26 @@
+.header{
+    position: absolute;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+}
+.header .logo{
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: 800;
+    color: #f0f0f0;
+}
+.header .menu{
+    display: flex;
+    margin-right: 40px;
+
+}
+.header .menu .menu-item{
+    margin-left: 20px;
+    font-size: 15px;
+    color: #f0f0f0;
+    font-weight: lighter;
+}

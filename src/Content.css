@@ -1,0 +1,39 @@
+.content{
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    height: 100vh;
+    width: 30vw;
+    margin-left: 200px;
+    margin-right: 50px;
+    flex-direction: column;
+}
+.content h1{
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Bigilla';
+    color: white;
+}
+h1 div{
+    overflow: hidden;
+    margin-top: -40px;
+}
+.content p{
+    font-size: 15px;
+    width: 80%;
+    font-family: 'Poppins';
+    font-weight: 200;
+    color: #f0f0f0;
+}
+.content button{
+    width: 150px;
+    padding: 15px 15px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    font-size: 15px;
+    border: none;
+    background-color: #0c0c0c;
+    border-radius: 30px;
+    color: white;
+}

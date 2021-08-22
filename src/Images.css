@@ -1,0 +1,30 @@
+.images .box1{
+    position: absolute;
+    top: 100px;
+    right: 80px;
+    background: url(images/img1.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 250px;
+    border: .5px solid gray;
+    height: 350px;
+}
+.images .box2{
+    position: absolute;
+    top: 250px;
+    right: 410px;
+    background: url(images/img2.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 350px;
+    border: .5px solid gray;
+    height: 450px;
+}
+.images .box3{
+    position: absolute;
+    top: 500px;
+    right: 10px;
+    background: url(images/img3.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 350px;
+    border: .5px solid gray;
+    height: 400px;
+}
